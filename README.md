@@ -1,1 +1,2 @@
-# diretório de backup dos labs de mc202 - estrutura de dados
+# mc202 - estrutura de dados
+anotações e trabalhos da matéria mc202 (estrutura de dados) na UNICAMP
